@@ -1,3 +1,3 @@
 # hexlet-my-first-workflow
 
-![say-hello](https://github.com/vital0101/hexlet-my-first-workflow/action/workflows/say-hello.yml/badge.svg)
+[![Actions Status](https://github.com/vital0101/hexlet-my-first-workflow/workflows/test/badge.svg)](https://github.com/vital0101/hexlet-my-first-workflow/actions)
